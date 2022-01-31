@@ -1,5 +1,5 @@
 {
-  "clienttoken": "ODgxNTIxMzAwMDQ3Mjc4MTMw.YSuCrw.wXchSyrt3ClsQnja18oQ7ugHktM",
+  "clienttoken": "",
 
   "Note_Token:":"Put Your Bot Token Above (If your using replit then make a new secret 'clienttoken' and put ur bot token there... and then keep this string empty)",
 
@@ -7,7 +7,7 @@
 
   "clientid": "Your Bot ID",
 
-  "TestingServerID": "850237459332988958",
+  "TestingServerID": "",
 
   "clientavatar":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOfQ_Mry9O3XF-v92UqhdvpUhkqEsLt73uo8ADhnYH6rmAzy6uyeq8WRrBR-4HY8qLux8&usqp=CAU",
 
